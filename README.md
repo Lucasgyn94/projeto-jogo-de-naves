@@ -1,5 +1,5 @@
 # Jogo de Naves
-* Construindo meu primeiro jogo de naves com __HTML__, __CSS__, __Javascript__ e __JQuery__. 
+* Construindo meu primeiro jogo de naves com __HTML__, __CSS__, __Javascript__ e da biblioteca __JQuery__. 
 * Projeto ministrado pela Digital Innovation One
 
 ## Link do jogo hospedado no GitHub Pages
